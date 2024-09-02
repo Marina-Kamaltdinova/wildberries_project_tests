@@ -1,0 +1,30 @@
+[tool.poetry]
+name = "wildberries-project-tests"
+version = "0.1.0"
+description = ""
+authors = ["Marina-Kamaltdinova <m.kamaltdinova@ctrl2go.solutions>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+selene = '^2.0.0rc9'
+pytest = '^8.2.2'
+allure-pytest = '^2.13.5'
+python-dotenv = '^1.0.1'
+requests = '^2.32.3'
+jsonschema = '^4.23.0'
+curlify = "^2.2.1"
+Appium-Python-Client = '^4.0.0'
+
+[tool.pytest.ini_options]
+addopts = """
+        --clean-alluredir
+        --alluredir=allure-results
+        --log-date-format="%Y-%m-%d %H:%M:%S"
+        --log-format="%(asctime)s %(levelname)s %(message)s"
+        --log-cli-level=INFO
+        """
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

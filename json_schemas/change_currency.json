@@ -1,0 +1,55 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "object",
+  "properties": {
+    "latitude": {
+      "type": "number"
+    },
+    "longitude": {
+      "type": "number"
+    },
+    "address": {
+      "type": "string"
+    },
+    "xinfo": {
+      "type": "string"
+    },
+    "userDataSign": {
+      "type": "string"
+    },
+    "destinations": {
+      "type": "array",
+      "items": {
+        "type": "integer"
+      }
+    },
+    "locale": {
+      "type": "string"
+    },
+    "shard": {
+      "type": "integer"
+    },
+    "currency": {
+      "type": "string"
+    },
+    "ip": {
+      "type": "string"
+    },
+    "dt": {
+      "type": "integer"
+    }
+  },
+  "required": [
+    "latitude",
+    "longitude",
+    "address",
+    "xinfo",
+    "userDataSign",
+    "destinations",
+    "locale",
+    "shard",
+    "currency",
+    "ip",
+    "dt"
+  ]
+}
