@@ -5,7 +5,7 @@ import allure
 class Home:
     def open_page(self):
         with allure.step("Открыть домашнюю страницу"):
-            browser.open('https://www.wildberries.ru/')
+            browser.open('/')
             return self
 
     def search_item(self, value):

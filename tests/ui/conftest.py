@@ -44,7 +44,7 @@ def browser_config(request):
     browser.config.driver = driver
     browser.config.window_width = 1920
     browser.config.window_height = 1080
-    browser.config.base_url = "https://www.wildberries.ru/"
+    browser.config.base_url = "https://www.wildberries.ru"
     browser.config.timeout = 20
     yield
 
