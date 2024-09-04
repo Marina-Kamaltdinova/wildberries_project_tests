@@ -31,19 +31,7 @@
 ---
 
 ### Используемые инструменты
-<img title="Python" src="pictures/logo/python.icon.svg" height="40" width="40"/> 
-<img title="Pytest" src="pictures/logo/pytest.icon.svg" height="40" width="40"/>
-<img title="Allure Report" src="pictures/logo/allure.icon.png" height="40" width="40"/>
-<img title="GitHub" src="pictures/logo/github.icon.svg" height="40" width="40"/> 
-<img title="Selenoid" src="pictures/logo/selenoid.icon.png" height="40" width="40"/>
-<img title="Selene" src="pictures/logo/selene.icon.png" height="40" width="40"/> 
-<img title="Pycharm" src="pictures/logo/pycharm.icon.svg" height="40" width="40"/> 
-<img title="Telegram" src="pictures/logo/telegram.icon.png" height="40" width="40"/> 
-<img title="Jenkins" src="pictures/logo/jenkins.icon.svg" height="40" width="40"/>
-<img src="pictures/logo/allure_testops.png" width="40">
-<img src="pictures/logo/jira.png" width="40">
-<img src="pictures/logo/appium.png" width="40"> 
-<img src="pictures/logo/request.png" width="40">
+<img title="Python" src="pictures/logo/python.icon.svg" height="40" width="40"/><img title="Pytest" src="pictures/logo/pytest.icon.svg" height="40" width="40"/><img title="Allure Report" src="pictures/logo/allure.icon.png" height="40" width="40"/><img title="GitHub" src="pictures/logo/github.icon.svg" height="40" width="40"/><img title="Selenoid" src="pictures/logo/selenoid.icon.png" height="40" width="40"/><img title="Selene" src="pictures/logo/selene.icon.png" height="40" width="40"/><img title="Pycharm" src="pictures/logo/pycharm.icon.svg" height="40" width="40"/><img title="Telegram" src="pictures/logo/telegram.icon.png" height="40" width="40"/><img title="Jenkins" src="pictures/logo/jenkins.icon.svg" height="40" width="40"/><img src="pictures/logo/allure_testops.png" width="40"><img src="pictures/logo/jira.png" width="40"><img src="pictures/logo/appium.png" width="40"><img src="pictures/logo/request.png" width="40">
 
 ---
 
